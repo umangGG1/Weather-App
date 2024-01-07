@@ -1,4 +1,4 @@
-# Météo
+# Umang
 
 ![Vercel](https://vercelbadge.vercel.app/api/seguinleo/meteo)
 
